@@ -3,10 +3,10 @@ Project Overview
 This Golang project utilizes the gorilla-mux tool and MongoDB for persistence to develop a RESTful API for the Vehicles-App. 
 The code flow is:
     1. Extract data from one end point.
-    2. Store data into MongoDB.
+    2. Store that data into MongoDB.
     3. Perform CRUD operations on it.
     
-Its functionalities include:
+Its functionalities includes:
     1.Fetch Data From EndPoint
     2.Insert Data To MongoDB
     3.ReadAll Data From MongoDB
