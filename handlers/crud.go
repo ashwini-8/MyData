@@ -43,6 +43,7 @@ func insertData(client *mongo.Client, data []models.Data) error {
 	}
 
 	_, err := collection.InsertMany(context.Background(), documents)
+
 	return err
 }
 
