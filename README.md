@@ -15,4 +15,9 @@ Its functionalities includes:
     6.DeleteData From MongoDB
     7.Get Data from MongoDB
 
+Building and Running using docker compose 
+	1. docker-compose up
+        2. on seperate terminal use curl cmd
+	3. docker-compose down
 
+ 
